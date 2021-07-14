@@ -1,0 +1,4 @@
+#define BRANCO "FFFFFF"
+#define VERMELHO "FF0000"
+#define AZUL "OOOOFF"
+#define AMARELO "FFFF00"

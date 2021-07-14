@@ -1,0 +1,4 @@
+#define BRANCO "FFFFFF"
+PROCEDURE Main 
+    ? BRANCO //Imprime FFFFFF
+RETURN 
